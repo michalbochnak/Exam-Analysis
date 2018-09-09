@@ -1,0 +1,10 @@
+C:\Users\Michal\Desktop\School\CS 341\Projects\CS 341 Project 04 Exam Analysis\ExamAnalysis\FSLibrary\bin\Debug\FSLibrary.XML
+C:\Users\Michal\Desktop\School\CS 341\Projects\CS 341 Project 04 Exam Analysis\ExamAnalysis\FSLibrary\bin\Debug\FSLibrary.dll
+C:\Users\Michal\Desktop\School\CS 341\Projects\CS 341 Project 04 Exam Analysis\ExamAnalysis\FSLibrary\bin\Debug\FSLibrary.pdb
+C:\Users\Michal\Desktop\School\CS 341\Projects\CS 341 Project 04 Exam Analysis\ExamAnalysis\FSLibrary\bin\Debug\FSharp.Core.dll
+C:\Users\Michal\Desktop\School\CS 341\Projects\CS 341 Project 04 Exam Analysis\ExamAnalysis\FSLibrary\bin\Debug\System.ValueTuple.dll
+C:\Users\Michal\Desktop\School\CS 341\Projects\CS 341 Project 04 Exam Analysis\ExamAnalysis\FSLibrary\bin\Debug\FSharp.Core.xml
+C:\Users\Michal\Desktop\School\CS 341\Projects\CS 341 Project 04 Exam Analysis\ExamAnalysis\FSLibrary\obj\Debug\FSLibrary.dll
+C:\Users\Michal\Desktop\School\CS 341\Projects\CS 341 Project 04 Exam Analysis\ExamAnalysis\FSLibrary\obj\Debug\FSLibrary.pdb
+C:\Users\Michal\Desktop\School\CS 341\Projects\CS 341 Project 04 Exam Analysis\ExamAnalysis\FSLibrary\obj\Debug\FSLibrary.fsprojAssemblyReference.cache
+C:\Users\Michal\Desktop\School\CS 341\Projects\CS 341 Project 04 Exam Analysis\ExamAnalysis\FSLibrary\obj\Debug\FSLibrary.fsproj.CopyComplete
